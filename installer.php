@@ -55,11 +55,11 @@ namespace {
     LogHandler::init_error_handler();
     class DUPX_Bootstrap
     {
-        const ARCHIVE_FILENAME   = 'Amory_TP2_9ea1dbc74a0203754096_20230206124615_archive.zip';
-        const ARCHIVE_SIZE       = '44748807';
+        const ARCHIVE_FILENAME   = 'Amory_TP_vin_67ceba7b615b23af1739_20230208110035_archive.zip';
+        const ARCHIVE_SIZE       = '73941460';
         const INSTALLER_DIR_NAME = 'dup-installer';
-        const PACKAGE_HASH       = '9ea1dbc-06124615';
-        const SECONDARY_PACKAGE_HASH = 'af8288b-06124615';
+        const PACKAGE_HASH       = '67ceba7-08110035';
+        const SECONDARY_PACKAGE_HASH = '3dfdff9-08110035';
         const VERSION            = '1.5.2.1';
         const MINIMUM_PHP_VERSION = '5.3.8';
         const ZIP_MODE_AUTO    = 0;
